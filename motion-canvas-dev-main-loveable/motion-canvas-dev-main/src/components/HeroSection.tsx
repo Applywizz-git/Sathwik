@@ -183,7 +183,7 @@ const HeroSection = () => {
                 <div className="relative">
                   <div className="w-100 h-100 lg:w-120 lg:h-120 rounded-full bg-gradient-primary p-1">
                     <img
-                      src="/src/assets/sathvik-photo.png"
+                      src="/sathvik-photo.png"
                       alt="Professional headshot"
                       className="w-full h-full rounded-full object-cover"
                     />
